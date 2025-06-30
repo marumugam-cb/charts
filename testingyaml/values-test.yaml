@@ -2,4 +2,4 @@ initContainer:
   resources:
     requests:
       memory: 15Mi
-      cpu: 15m
+      cpu: 16m
