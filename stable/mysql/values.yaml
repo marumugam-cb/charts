@@ -243,4 +243,4 @@ initContainer:
   resources:
     requests:
       memory: 10Mi
-      cpu: 10m
+      cpu: 11m
